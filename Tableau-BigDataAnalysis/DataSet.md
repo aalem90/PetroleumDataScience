@@ -9,10 +9,10 @@ This project utilizes a large-scale dataset (~7 million records) combining both 
 The dataset is derived from official public data provided by the New York State Department of Environmental Conservation (NYS DEC):
 
 - **Spatial Data (Well Locations & Attributes)**  
-  https://dec.ny.gov/environmental-protection/oil-gas/wells-datageographical-information/downloadable-data  
+https://dec.ny.gov/environmental-protection/oil-gas/wells-data-geographical-information/downloadable-data
 
 - **Temporal Data (Production Data)**  
-  https://dec.ny.gov/environmental-protection/oil-gas/wells-datageographical-information/downloadable-production-data  
+ https://dec.ny.gov/environmental-protection/oil-gas/wells-data-geographical-information/downloadable-production-data
 
 ---
 
